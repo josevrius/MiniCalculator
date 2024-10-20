@@ -1,1 +1,1 @@
-Proyecto Android Studio
+Proyecto realizado con Android Studio
